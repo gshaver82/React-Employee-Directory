@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "Name": "Jean Luc Picard",
+        "Role": "Captain",
+        "Department": "Enterpise command",
+        "Salary": 95000
+    },
+    {
+        "id": 2,
+        "Name": "Geordi La Forge",
+        "Role": "Engineering chief",
+        "Department": "Enterpise Engineering",
+        "Salary": 34000
+    },
+    {
+        "id": 3,
+        "Name": "Beveryly Crusher",
+        "Role": "Doctor",
+        "Department": "Enterpise sickbay",
+        "Salary": 95000
+    },
+    {
+        "id": 4,
+        "Name": "Will Riker",
+        "Role": "First Officer",
+        "Department": "Enterpise command",
+        "Salary": 95000
+    }
+]
