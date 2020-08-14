@@ -1,9 +1,9 @@
 import React from "react";
-import List from "./components/List";
+import Wrapper from "./components/Wrapper";
 
 
 function App() {
-  return <List />;
+  return <Wrapper />;
 }
 
 export default App;
