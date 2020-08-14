@@ -26,5 +26,12 @@
         "Role": "First Officer",
         "Department": "Enterpise command",
         "Salary": 95000
+    },
+    {
+        "id": 5,
+        "Name": "EMH Program",
+        "Role": "Doctor",
+        "Department": "Enterpise sickbay",
+        "Salary": 95000
     }
 ]
