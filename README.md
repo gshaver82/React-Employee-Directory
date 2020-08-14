@@ -1,6 +1,9 @@
 # React Employee Directory
 # Description
 this app uses React to sort and filter a json directory of employees
+# Screenshot
+<img src='https://raw.githubusercontent.com/gshaver82/React-Employee-Directory/master/React-Employee-Directory-Screenshot.JPG' alt=appScreenshot width=500>
+
 # Table of Contents
 none
 # Installation
