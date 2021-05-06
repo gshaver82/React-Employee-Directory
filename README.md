@@ -12,7 +12,7 @@ npm install
 # Usage
 npm start
 # License
-<a href='https://opensource.org/licenses/MIT'><img alt='Badge' src='https://img.shields.io/badge/License-MIT-yellow.svg'>
+<a href='https://opensource.org/licenses/MIT'><img alt='Badge' src='https://img.shields.io/badge/License-MIT-yellow.svg'></a>
 
 # Contributing
 none
